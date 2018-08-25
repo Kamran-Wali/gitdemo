@@ -1,0 +1,1 @@
+print("We are satisfied with a hard days work")
